@@ -1,0 +1,25 @@
+{
+  "name": "express-federation-validation",
+  "version": "1.0.0",
+  "description": "@hapi/joi validation middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen7david/express-federation-validation.git"
+  },
+  "keywords": [
+    "validation"
+  ],
+  "author": "David M.Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chen7david/express-federation-validation/issues"
+  },
+  "homepage": "https://github.com/chen7david/express-federation-validation#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0"
+  }
+}
