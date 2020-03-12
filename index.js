@@ -1,5 +1,3 @@
-const Joi = require('@hapi/joi')
-
 const validate = {
     body: (schema) => {
         return (req, res, next) => {
@@ -13,4 +11,4 @@ const validate = {
     }
 }
 
-module.exports = { Joi, validate }
+module.exports = { validate }

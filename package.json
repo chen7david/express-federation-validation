@@ -16,7 +16,5 @@
     "url": "https://github.com/chen7david/express-federation-validation/issues"
   },
   "homepage": "https://github.com/chen7david/express-federation-validation#readme",
-  "dependencies": {
-    "@hapi/joi": "^17.1.0"
-  }
+  "dependencies": {}
 }
